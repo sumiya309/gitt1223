@@ -1,3 +1,2 @@
  my 1st commit
  my 2ns commit
- my 3rd commit
